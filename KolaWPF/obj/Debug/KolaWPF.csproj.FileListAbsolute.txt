@@ -1,0 +1,14 @@
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\bin\Debug\KolaWPF.exe.config
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\bin\Debug\KolaWPF.exe
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\bin\Debug\KolaWPF.pdb
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF.csprojResolveAssemblyReference.cache
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\MainWindow.g.cs
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\App.g.cs
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF_MarkupCompile.cache
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF_MarkupCompile.lref
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\MainWindow.baml
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF.g.resources
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF.Properties.Resources.resources
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF.csproj.GenerateResource.Cache
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF.exe
+c:\users\mrrey\documents\visual studio 2015\Projects\KolaWPF\KolaWPF\obj\Debug\KolaWPF.pdb
